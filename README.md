@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [My Medium Blog Posts' Examples](#my-medium-blog-posts-examples)
+- [My Medium Blog Posts' Examples ✍️](#my-medium-blog-posts-examples-️)
   - [Table of Contents](#table-of-contents)
     - [React](#react)
       - [React useContext Hook Example](#react-usecontext-hook-example)
