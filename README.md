@@ -66,3 +66,10 @@
 
 - 👉  [Repo](https://github.com/SafaElmali/my-medium-blog-posts-examples/tree/master/React-Native/rn-navigation-example)
 - 👉  [Blog post](https://medium.com/kodcular/react-navigation-5-i%CC%87le-routing-i%CC%87%C5%9Flemleri-nas%C4%B1l-yap%C4%B1l%C4%B1r-ac2b7b51d3e6)
+
+
+
+## License
+
+my-medium-blog-posts-examples is [MIT licensed](./LICENSE).
+
