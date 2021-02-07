@@ -2,7 +2,9 @@
   
 # My Medium Blog Posts' Examples ✍️
 
-<i>This repository contains most of the examples I've used in blog posts 🤓 </i>
+<i>This repository contains most of the examples I've used in blog posts 🤓 <br>
+ My Medium 👉 [Medium](https://tsafaelmali.medium.com/)
+</i>
 
 </div>
 
