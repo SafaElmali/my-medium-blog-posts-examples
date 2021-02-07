@@ -1,6 +1,9 @@
+<div align="center">
 # My Medium Blog Posts' Examples
 
-<i>This repository contains most of the examples I've used in blog posts.</i>
+<i>This repository contains most of the examples I've used in blog posts 🤓 </i>
+
+</div>
 
 ## Table of Contents
 
